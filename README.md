@@ -7,7 +7,9 @@ Every freelancer should have their own contract. Working without one can lead to
 
 [The Plain Contract](https://plainfreelancecontract.com?utm_source=GitHub) was created to solve this problem. It's a crowdsourced, open source standard, written with the help of thousands of freelancers around the world and continually updated and improved.
 
-![The Plain Contract Features](https://static1.squarespace.com/static/5c1bd265d274cb11af0bc2f7/t/5c2d7422c2241b439c4e04ce/1546482722817/the-plain-contract-github.png)
+## Features
+
+![The Plain Contract Features](https://static1.squarespace.com/static/5c1bd265d274cb11af0bc2f7/t/5c2d86e08a922dab8b652be9/1546487521434/the-plain-contract-github.png)
 
 ## Installation
 
@@ -19,7 +21,7 @@ Follow the instructions in the [Google Doc](https://docs.google.com/document/d/1
 
 ## Contributing
 
-* Sign up for a [GitHub account](https://github.com/join) account
+* Sign up for a [GitHub account](https://github.com/join)
 
 * [Watch](https://help.github.com/articles/watching-and-unwatching-repositories/) and [Star](https://help.github.com/articles/about-stars/) this repo to stay up-to-date with the latest product developments
 
