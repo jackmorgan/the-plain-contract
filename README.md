@@ -25,7 +25,7 @@ Follow the instructions in the [Google Doc](https://docs.google.com/document/d/1
 
 * [Watch](https://help.github.com/articles/watching-and-unwatching-repositories/) and [Star](https://help.github.com/articles/about-stars/) this repo to stay up-to-date with the latest product developments
 
-* Bilingual? Help us translate The Plain Contract into multiple languages by submitting translations via GitHub [Issues](https://github.com/jackmorgan/the-plain-contract/issues), submitting a [Pull Request](https://github.com/jackmorgan/the-plain-contract/issues), or by Suggesting or Commenting on the [Google Doc](https://docs.google.com/document/d/1KAICFXZTmbxydzvZ5q75SnwLi7UyDb-8ze7ZNXUCMlA/edit?usp=sharing)
+* Bilingual? Help us translate The Plain Contract into multiple languages by emailing contribute@theplaincontract.com
 
 * Request and discuss changes using GitHub [Issues](https://github.com/jackmorgan/the-plain-contract/issues), or submit a [Pull Request](https://github.com/jackmorgan/the-plain-contract/pulls)
 
