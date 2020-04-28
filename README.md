@@ -7,10 +7,6 @@ Every freelancer should have their own contract. Working without one can lead to
 
 [The Plain Contract](https://plainfreelancecontract.com?utm_source=GitHub) was created to solve this problem. It's a crowdsourced, open source standard, written with the help of thousands of freelancers around the world and continually updated and improved.
 
-## Features
-
-![The Plain Contract Features](https://static1.squarespace.com/static/5c1bd265d274cb11af0bc2f7/t/5c2d86e08a922dab8b652be9/1546487521434/the-plain-contract-github.png)
-
 ## Installation
 
 The most up-to-date version of The Plain Contract is available on Google Docs, and as part of this GitHub repo. To make your own copy of the Contract, view the [Google Doc](https://docs.google.com/document/d/1KAICFXZTmbxydzvZ5q75SnwLi7UyDb-8ze7ZNXUCMlA/edit?usp=sharing) and select **File > Make a copy** or **File > Download as > Microsoft Word.**
